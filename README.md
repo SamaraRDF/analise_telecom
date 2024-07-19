@@ -11,10 +11,7 @@ A empresa possuía dados do consumo médio de largura de banda dos clientes ante
 ## Arquivos
 
 - `Testeshipoteses.ipynb`: Notebook Jupyter com a análise de dados e os testes de hipótese.
-- `dataset.csv`: Arquivo de dados em formato CSV utilizado na análise.
+- `dataset.csv`: Arquivo de dados em formato CSV utilizado na análise.  
 
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SamaraRDF/analise_telecom.git
+Sobre
+Este projeto foi desenvolvido pela Data Science Academy. Para mais informações, 📧 samaradadosrdf@gmail.com.
